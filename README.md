@@ -10,6 +10,7 @@ A list of things I am learning about using git
 * https://youtu.be/O7NBEFmA7yA?t=5m26s
 
 ##Sub-tree
+* http://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging
 * https://www.kernel.org/pub/software/scm/git/docs/howto/using-merge-subtree.html
 
 ##Sub-modules

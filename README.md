@@ -8,6 +8,10 @@ A list of things I am learning about using git
 
 ##Using Jyckel
 * https://youtu.be/O7NBEFmA7yA?t=5m26s
+* http://jimpravetz.com/blog/2011/12/generating-jekyll-pages-from-data/
+* https://github.com/benbalter/jekyllbot
+* http://www.madebymarket.com/blog/dev/fun-jekyll-tricks.html
+* http://www.jekyll-plugins.com/plugins/jekyll-json
 
 ##Sub-tree
 * http://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging
